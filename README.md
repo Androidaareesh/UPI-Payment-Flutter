@@ -8,7 +8,7 @@ This app first searches which all online payment platform available in your mobi
 
 <h2>ScreenShots:</h2>
 
-<img src="result/payment1.jpg"> <img src="result/payment2.jpg">
+<img style="width:300px, height:300px" src="result/payment1.jpg"> <img src="result/payment2.jpg">
 
 <img src="result/payment3.jpg"> <img src="result/payment4.jpg">
 
